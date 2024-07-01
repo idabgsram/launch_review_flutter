@@ -1,11 +1,11 @@
 name: launch_app_store
 description: A Flutter plugin to reviews in Google Play Store and Apple App Store.
-version: 1.0.2
+version: 1.0.3
 homepage: https://github.com/euferreira/launch_review
 
 environment:  
-  sdk: ">=2.12.0 <3.0.0"
-  flutter: ">=1.12.0"
+  sdk: ">=3.4.3 <4.0.0"
+  flutter: ">=3.3.0"
 
 dependencies:
   flutter:
